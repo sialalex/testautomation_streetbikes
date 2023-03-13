@@ -1,4 +1,4 @@
-from StreetBikeWithCCU import StreetBikeWithCCU
+from libraries.StreetBikeWithCCU import StreetBikeWithCCU
 class TestBike(StreetBikeWithCCU):
  
     def __init__(self, name, vin, color):
